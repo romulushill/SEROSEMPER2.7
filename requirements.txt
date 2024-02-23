@@ -1,0 +1,4 @@
+html2text
+termcolor
+datetime
+requests
